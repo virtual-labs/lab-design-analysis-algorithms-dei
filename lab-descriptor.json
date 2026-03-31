@@ -90,7 +90,7 @@
       "ME/M.Tech"
     ]
   },
-  "objective": "The objectives of the Design and Analysis of Algorithms Virtual Lab are:<ul><li>To provide a practical understanding of the importance of efficient analysis and design of algorithms from the perspectives of both time and space complexity</li><li>To develop familiarity with major algorithms and underlying data structures</li><li>To apply algorithm design strategies such as divide-and-conquer paradigm, dynamic programming, greedy algorithms, backtracking and heuristics as appropriate</li><li>To gain the ability to design and implement efficient algorithms in common engineering design situations</li>",
+  "objective": "The objectives of the Design and Analysis of Algorithms Virtual Lab are:<ul><li>To provide a practical understanding of the importance of efficient analysis and design of algorithms from the perspectives of both time and space complexity</li><li>To develop familiarity with major algorithms and underlying data structures</li><li>To apply algorithm design strategies such as divide-and-conquer paradigm, dynamic programming, greedy algorithms, backtracking and heuristics as appropriate</li><li>To gain the ability to design and implement efficient algorithms in common engineering design situations</li></ul>",
   "courseAlignment": {
     "description": "These experiments are part of the core technology curriculum as per AICTE guidelines, taught across universities and polytechnic institutions throughout India, including (but not limited to):",
     "universities": [
